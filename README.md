@@ -2,6 +2,8 @@
 Power Bi Dashboard
 Hi Everyone,
 I have created this Advance interactive Super Store Sales Analytics dashboard using powerbi
+⭕ Objective:
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales Forecasting.
 
 🔑 Incorporated Data Analysis Technique
 1- Map visualization using Power bi
@@ -10,9 +12,6 @@ I have created this Advance interactive Super Store Sales Analytics dashboard us
 4- Chart visualization using Power Bi
 5- Find Business Problems using Power Bi and Sharing Insights
 6- Accurate Sales Forecast using Power Bi
-
-⭕ Objective:
-To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales Forecasting.
 
 🔑 Description:
 The objective can be broken down into the following detailed component.
